@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="./assets/profile.svg" width="220" alt="Edivaldo Valódia Ndonga"/> 
+  <img src="/assets/profile.svg" width="220" alt="Edivaldo Valódia Ndonga"/> 
   <br><br>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web+%7C+Mobile+%7C+Desktop+%7C+Games;Automa%C3%A7%C3%A3o+%26+An%C3%A1lise+de+Dados;Angola+%E2%80%A2+Dispon%C3%ADvel+para+Freelance" alt="Typing SVG" />
