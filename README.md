@@ -1,6 +1,6 @@
 <div align="center">
   
-  <!-- Sua imagem de perfil -->
+  <!-- minha imagem de perfil -->
   <img src="./profile.png" width="180" alt="Edivaldo Valódia Ndonga"/>
   
   <br><br>
@@ -56,17 +56,29 @@ Web · Mobile (Android) · Desktop · Games · Automação · Análise de Dados 
 ---
 
 ### Contato
-
-- **E-mail:** [edvaldoquinglish@gmail.com](mailto:edvaldoquinglish@gmail.com)
-- **WhatsApp:** [+244 924 495 732](https://wa.me/244924495732)
-- **Instagram:** [equinglish](https://instagram.com/equinglish)
-- **Facebook:** [Perfil](https://www.facebook.com/profile.php?id=61584520374336)
-- **YouTube:** [@edvaldoquinglish](https://youtube.com/@edvaldoquinglish)
-- **TikTok:** [Perfil](https://vm.tiktok.com/ZS9Df2TJkB3EM-cxkjL/)
-- **Discord:** *em breve*
-- **Twitter / X:** *em breve*
-- **GitHub:** [edvaldoquinglish](https://github.com/edvaldoquinglish)
-
+<p align="left">
+  <a href="mailto:edvaldoquinglish@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/244924495732">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://instagram.com/equinglish">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61584520374336">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://youtube.com/@edvaldoquinglish">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://vm.tiktok.com/ZS9Df2TJkB3EM-cxkjL/">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://github.com/edvaldoquinglish">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 ---
 
 ### GitHub Stats
