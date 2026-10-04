@@ -1,11 +1,9 @@
 <div align="center">
   
-  <!-- minha imagem de perfil -->
-  <img src="./profile.png" width="180" alt="Edivaldo Valódia Ndonga"/>
+  <img src="./profile.svg" width="220" alt="Edivaldo Valódia Ndonga"/>
   
   <br><br>
   
-  <!-- GIF de digitação -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web+%7C+Mobile+%7C+Desktop+%7C+Games;Automa%C3%A7%C3%A3o+%26+An%C3%A1lise+de+Dados;Angola+%E2%80%A2+Dispon%C3%ADvel+para+Freelance" alt="Typing SVG" />
   
 </div>
@@ -41,21 +39,20 @@ Web · Mobile (Android) · Desktop · Games · Automação · Análise de Dados 
 
 ---
 
-### Projetos em destaque
+### Projetos
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| **TaskFlow** | Sistema de gerenciamento de tarefas com autenticação | HTML, CSS, JS/TS, Python, SQL |
-| **AutoBot Angola** | Bot de automação e agentes de IA | Python, Docker |
-| **DataInsight Dashboard** | Dashboard interativo de análise de dados | Python, SQL/NoSQL, JavaScript |
-| **PixelQuest** | Jogo 2D | JavaScript / TypeScript ou C++ |
-| **MobileHub** | Aplicação multiplataforma (Mobile + Desktop) | Kotlin, Java / C++ |
-
-> Os repositórios destes projetos serão adicionados em breve.
+| Projeto | Descrição | Stack | Status |
+|:--------|:----------|:------|:------:|
+| **TaskFlow** | Sistema de gerenciamento de tarefas com autenticação | HTML · CSS · JS/TS · Python · SQL | Em breve |
+| **AutoBot Angola** | Bot de automação e agentes de IA | Python · Docker | Em breve |
+| **DataInsight Dashboard** | Dashboard interativo de análise de dados | Python · SQL/NoSQL · JavaScript | Em breve |
+| **PixelQuest** | Jogo 2D | JavaScript / TypeScript ou C++ | Em breve |
+| **MobileHub** | Aplicação multiplataforma (Mobile + Desktop) | Kotlin · Java / C++ | Em breve |
 
 ---
 
 ### Contato
+
 <p align="left">
   <a href="mailto:edvaldoquinglish@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -78,7 +75,11 @@ Web · Mobile (Android) · Desktop · Games · Automação · Análise de Dados 
   <a href="https://github.com/edvaldoquinglish">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfólio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
+  </a>
 </p>
+
 ---
 
 ### GitHub Stats
