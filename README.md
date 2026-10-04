@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="./profile.svg" width="220" alt="Edivaldo Valódia Ndonga"/>
+  <img src="assets/profile.svg" width="220" alt="Edivaldo Valódia Ndonga"/>
   
   <br><br>
   
